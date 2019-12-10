@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 54
+juicer.kdevses
+juicer.kdevelop.pcs
+templates
+Doxyfile
+
+END

@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/ajqtgui/!svn/ver/268/juicer/src
+END
+networkdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ajqtgui/!svn/ver/267/juicer/src/networkdialogbase.ui
+END
+useritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/useritem.h
+END
+application.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/application.cpp
+END
+qconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ajqtgui/!svn/ver/259/juicer/src/qconvert.h
+END
+images.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ajqtgui/!svn/ver/244/juicer/src/images.qrc
+END
+uploaditem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/265/juicer/src/uploaditem.h
+END
+md5class.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ajqtgui/!svn/ver/52/juicer/src/md5class.h
+END
+servermodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/servermodule.h
+END
+downloadmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/downloadmodule.h
+END
+incomingitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/incomingitem.cpp
+END
+translations.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/102/juicer/src/translations.qrc
+END
+shareitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/shareitem.h
+END
+powerspin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/powerspin.cpp
+END
+qxmlmodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/264/juicer/src/qxmlmodule.cpp
+END
+partlistdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/partlistdialog.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ajqtgui/!svn/ver/197/juicer/src/md5.h
+END
+uploadmodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/264/juicer/src/uploadmodule.cpp
+END
+downloaditem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/264/juicer/src/downloaditem.h
+END
+iconwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/iconwidget.cpp
+END
+logindialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/logindialog.h
+END
+useritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/useritem.cpp
+END
+ftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/ftp.h
+END
+item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/item.cpp
+END
+qconvert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/259/juicer/src/qconvert.cpp
+END
+optionsdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ajqtgui/!svn/ver/266/juicer/src/optionsdialogbase.ui
+END
+partswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/partswidget.h
+END
+handlerdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/handlerdialog.h
+END
+uploaditem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/265/juicer/src/uploaditem.cpp
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ajqtgui/!svn/ver/197/juicer/src/global.h
+END
+searchentryitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/searchentryitem.cpp
+END
+sharemodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/sharemodule.cpp
+END
+md5class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ajqtgui/!svn/ver/52/juicer/src/md5class.cpp
+END
+downloadmodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/downloadmodule.cpp
+END
+logindialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ajqtgui/!svn/ver/266/juicer/src/logindialogbase.ui
+END
+incomingmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/incomingmodule.h
+END
+optionsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/optionsdialog.h
+END
+shareitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/shareitem.cpp
+END
+searchitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/searchitem.cpp
+END
+sharefileitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/sharefileitem.h
+END
+incomingitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/incomingitem.h
+END
+shareselectiondialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/shareselectiondialog.cpp
+END
+ftp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/ftp.cpp
+END
+powerspin.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/powerspin.h
+END
+handlerdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/handlerdialog.cpp
+END
+partswidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/partswidget.cpp
+END
+uploadmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/264/juicer/src/uploadmodule.h
+END
+iconwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/iconwidget.h
+END
+item.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/item.h
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/src.pro
+END
+juicer.ico
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ajqtgui/!svn/ver/225/juicer/src/juicer.ico
+END
+incomingmodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/incomingmodule.cpp
+END
+optionsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/optionsdialog.cpp
+END
+searchentryitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/searchentryitem.h
+END
+sharemodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/sharemodule.h
+END
+networkdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/networkdialog.h
+END
+modulebase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/modulebase.cpp
+END
+searchmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/searchmodule.h
+END
+sharefileitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/sharefileitem.cpp
+END
+handlerdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/handlerdialogbase.ui
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/main.cpp
+END
+serversocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/serversocket.h
+END
+juicer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/juicer.h
+END
+socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/socket.cpp
+END
+searchitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/searchitem.h
+END
+serveritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/serveritem.h
+END
+shareselectiondialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/shareselectiondialog.h
+END
+mainwindowbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ajqtgui/!svn/ver/267/juicer/src/mainwindowbase.ui
+END
+partlistdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ajqtgui/!svn/ver/266/juicer/src/partlistdialogbase.ui
+END
+application.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/application.h
+END
+networkdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/networkdialog.cpp
+END
+searchmodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/searchmodule.cpp
+END
+servermodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/servermodule.cpp
+END
+shareselectiondialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/shareselectiondialogbase.ui
+END
+serversocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/serversocket.cpp
+END
+juicer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/ajqtgui/!svn/ver/268/juicer/src/juicer.cpp
+END
+partlistdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/partlistdialog.cpp
+END
+serveritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/serveritem.cpp
+END
+modulebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/263/juicer/src/modulebase.h
+END
+downloaditem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ajqtgui/!svn/ver/264/juicer/src/downloaditem.cpp
+END
+md5c.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/ajqtgui/!svn/ver/197/juicer/src/md5c.c
+END
+logindialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/logindialog.cpp
+END
+qxmlmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/qxmlmodule.h
+END
+juicer_de.ts
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/ajqtgui/!svn/ver/267/juicer/src/juicer_de.ts
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/ajqtgui/!svn/ver/262/juicer/src/socket.h
+END
